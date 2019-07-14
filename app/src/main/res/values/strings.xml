@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ALCFiveDayChallenge</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="track">Track: Android</string>
+    <string name="name">Steven Daniel</string>
+    <string name="email">Email: doyouknowskooby@gmail.com</string>
+    <string name="phone">Phone Number: 2348034081392</string>
+    <string name="slack">Slack Username: @Steven Daniel</string>
+</resources>
